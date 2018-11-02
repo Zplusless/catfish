@@ -2,7 +2,7 @@
 
 原版中如果python代码块中有jupyter notebook的输出，某些单词会被认为是语法错误而标记红色，如下图
 
-![](assets/error.png)
+![](images/error.png)
 
 两种解决办法：
 
