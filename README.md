@@ -1,3 +1,16 @@
+## 解决问题：
+
+原版中如果python代码块中有jupyter notebook的输出，某些单词会被认为是语法错误而标记红色，如下图
+
+![](assets/error.png)
+
+两种解决办法：
+
+ 	1. 将catfish.css文件中的包含error的块注释掉。本版本的css已修改
+ 	2. 利用脚本将md文件中的输出 `Out[] :`等块单独隔离出来，使用java标记的代码块
+
+# 原 Readme
+
 > Designed and tested on Windows 10, version 1703. Not fully tested, but should work for macOS/Linux. 
 
 # Catfish

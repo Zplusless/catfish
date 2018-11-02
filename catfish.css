@@ -199,10 +199,10 @@ tt {
   .cm-s-inner .cm-qualifier { color: #DECB6B; }
   .cm-s-inner .cm-variable-3, .cm-s-inner .cm-type { color: #DECB6B; }
   .cm-s-inner .cm-tag { color: rgba(255, 83, 112, 1); }
-  .cm-s-inner .cm-error {
+  /* .cm-s-inner .cm-error {
   color: rgba(255, 255, 255, 1.0);
   background-color: #EC5F67;
-  }
+  } */
   .cm-s-inner .CodeMirror-matchingbracket {
   text-decoration: underline;
   color: white !important;
@@ -255,10 +255,10 @@ tt {
   .cm-s-typora-default .cm-qualifier { color: #DECB6B; }
   .cm-s-typora-default .cm-variable-3 { color: #DECB6B; }
   .cm-s-typora-default .cm-tag { color: rgba(255, 83, 112, 1); }
-  .cm-s-typora-default .cm-error {
+  /* .cm-s-typora-default .cm-error {
   color: rgba(255, 255, 255, 1.0);
   background-color: #EC5F67;
-  }
+  } */
   .cm-s-typora-default .CodeMirror-matchingbracket {
   text-decoration: underline;
   color: white !important;
