@@ -6,8 +6,12 @@
 
 两种解决办法：
 
- 	1. 将catfish.css文件中的包含error的块注释掉。本版本的css已修改
- 	2. 利用脚本将md文件中的输出 `Out[] :`等块单独隔离出来，使用java标记的代码块
+  1. 将catfish.css文件中的包含error的块注释掉。本版本的css已修改
+
+     > 将三个名为catfish的文件/文件夹拷贝到typora主题路径下
+  2. 利用脚本将md文件中的输出 `Out[] :`等块单独隔离出来，使用java标记的代码块
+
+     > 用split_out.py处理md文件
 
 # 原 Readme
 
